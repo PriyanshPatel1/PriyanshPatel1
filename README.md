@@ -32,12 +32,6 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-009900?style=for-the-badge&logo=javascript)
-
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Drizzle%20ORM-blueviolet?style=flat" />
-  <img src="https://img.shields.io/badge/-JWT-yellowgreen?style=flat" />
 </p>
 
 ---
