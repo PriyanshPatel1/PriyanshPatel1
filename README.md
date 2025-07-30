@@ -1,6 +1,25 @@
-- 👋 Hi, I’m @PriyanshPatel1
-- 👀 I’m interested in Backend and front-end Development
 
+
+
+<!---
+PriyanshPatel1/PriyanshPatel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.- 📫 How to reach me ...- 🌱 I’m currently learning ...- 💞️ I’m looking to collaborate  ...
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshPatel1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshPatel1&layout=compact&theme=radical)
+
+--->
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hi, I'm @PriyanshPatel1
+</h1>
+
+<p align="center">
+  🎓 Aspiring Software Engineer | Backend & Systems | CS Student  
+   - 👀 I’m interested in Backend and front-end Development
+</p>
+
+<p align="center">
+  
 ### 💻 Languages & Tools I Use
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -14,25 +33,6 @@
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-000000?style=for-the-badge&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-009900?style=for-the-badge&logo=javascript)
 
-
-
-<!---
-PriyanshPatel1/PriyanshPatel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.- 📫 How to reach me ...- 🌱 I’m currently learning ...- 💞️ I’m looking to collaborate  ...
-### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshPatel1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshPatel1&layout=compact&theme=radical)
-
---->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" /> Hi, I'm [Your Name]
-</h1>
-
-<p align="center">
-  🎓 Aspiring Software Engineer | Backend & Systems | CS Student  
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
