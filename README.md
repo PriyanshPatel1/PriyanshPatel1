@@ -2,6 +2,9 @@
 - 👀 I’m interested in Backend and front-end Development
 
 
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshPatel1&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshPatel1&layout=compact&theme=radical)
 
 <!---
 PriyanshPatel1/PriyanshPatel1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
