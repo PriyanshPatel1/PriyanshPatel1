@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 </h1>
 
 <p align="center">
-  🎓 Aspiring Software Engineer | Backend & Systems | CS Student  
+  🎓 Aspiring Software Engineer | Backend & Fronted | CS Student  
    - 👀 I’m interested in Backend and front-end Development
 </p>
 
