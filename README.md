@@ -6,7 +6,11 @@ PriyanshPatel1/PriyanshPatel1 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.- 📫 How to reach me ...- 🌱 I’m currently learning ...- 💞️ I’m looking to collaborate  ...
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PriyanshPatel1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshPatel1&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshPatel1&layout=compact&theme=radical)### 📫 Reach Me
+
+- 📧 [your.email@domain.com](mailto:your.email@domain.com)
+- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+
 
 --->
 <h1 align="center">
@@ -55,38 +59,7 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 
 ---
 
-### 📍 Where I’ve Been
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/8/8d/Stanford_University_seal_2003.svg" height="48" title="Stanford" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/2/23/UIUC_logo.svg/1200px-UIUC_logo.svg.png" height="48" title="UIUC" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Cornell_University_Seal.svg" height="48" title="Cornell" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/MIT_Seal.svg" height="48" title="MIT (target)" />
-</p>
 
----
 
-### 📫 Reach Me
-
-- 📧 [your.email@domain.com](mailto:your.email@domain.com)
-- 🌐 [yourportfolio.dev](https://yourportfolio.dev)
-- 🐦 [@yourhandle](https://twitter.com/yourhandle)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
-
----
-
-<details>
-  <summary>✨ Fun facts</summary>
-  <ul>
-    <li>⚡ I built my first Linux shell in C at age 16</li>
-    <li>🧠 I read 30+ academic CS papers a year</li>
-    <li>🎨 I design UIs with Figma on the side</li>
-  </ul>
-</details>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=react&hide_rank=true" />
-</p>
 
