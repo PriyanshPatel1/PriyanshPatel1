@@ -54,9 +54,6 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 | Project | Tech | Description |
 |--------|------|-------------|
 | [`URL Shortener`](https://github.com/yourusername/url-shortener) | Node.js, Express, Drizzle ORM, JWT | Authenticated URL shortener with full REST API and database session handling |
-| [`LangChain Chatbot`](#) | LangChain, OpenAI, Pinecone | Semantic search & conversational memory using vector embeddings |
-| [`CloudDevOps Lab`](#) | Terraform, AWS, Docker | Infrastructure-as-code sandbox with autoscaling & CI/CD |
-
 ---
 
 
