@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 ### 🧠 About Me
 
 - 💡 I’m passionate about building scalable backends, developer tooling, and data infrastructure  
-- 📚 I love systems programming 
+- 📚Passionate backend developer focused on building scalable systems and contributing to open-source tools that empower developers worldwide.
 - 🧰 Currently exploring **Edge APIs**, **Backend Development** 
 - 🎯**Goal:** Contribute to open-source backend tools that support developers at scale.
   
