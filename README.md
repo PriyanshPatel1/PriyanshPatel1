@@ -43,9 +43,10 @@ You can click the Preview link to take a look at your changes.- 📫 How to reac
 ### 🧠 About Me
 
 - 💡 I’m passionate about building scalable backends, developer tooling, and data infrastructure  
-- 📚 I love systems programming, distributed computing, and applied machine learning  
-- 🧰 Currently exploring **Edge APIs**, **ORM internals**, and **Rust**  
-- 🎯 Goal: Contribute to open-source tools used by devs at scale  
+- 📚 I love systems programming 
+- 🧰 Currently exploring **Edge APIs**, **Backend Development** 
+- 🎯**Goal:** Contribute to open-source backend tools that support developers at scale.
+  
 
 ---
 
